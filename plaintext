@@ -1,0 +1,33 @@
+project-template/
+│
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   └── bug_report.md
+│   │   └── feature_request.md
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── workflows/
+│       └── ci.yml
+│
+├── src/
+│   ├── main_file  # Main entry point (e.g., main.py, index.js)
+│   └── module/
+│       ├── module_file  # Example module file (e.g., example.py, example.js)
+│
+├── tests/
+│   ├── test_main_file  # Test file for main (e.g., test_main.py, test_main.js)
+│   └── test_module_file  # Test file for module (e.g., test_example.py, test_example.js)
+│
+├── deployment/
+│   ├── requirements.txt  # Dependencies file
+│
+├── docker/
+│   ├── Dockerfile
+│   ├── docker-compose.yml
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── setup.py  # Setup script for Python or other relevant configuration file
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+└── CHANGELOG.md
