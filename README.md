@@ -9,6 +9,8 @@ This repository is a template for creating new projects. It includes a basic str
   - [Installation](#installation)
   - [Usage](#usage)
   - [Features](#features)
+  - [Contributing](#contributing)
+  - [License](#license)
   - [Project Structure](#project-structure)
 
 ## Installation
@@ -42,6 +44,16 @@ This repository is a template for creating new projects. It includes a basic str
 - Modular structure
 - Docker support
 - Basic CI setup with GitHub Actions
+
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Project Structure
 
